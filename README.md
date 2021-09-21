@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/abhijind/tic-tac-toe-pwa/branch/master/graph/badge.svg?token=W0TDW24W0S)](https://codecov.io/gh/abhijind/tic-tac-toe-pwa)
+
 # Tic Tac Toe PWA 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
@@ -29,4 +31,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## TODOs
 1. Add routing capabilities in application.
 2. Migrate TSLint to ESLint. (TSLint is deprecated.)
-3. 
+3. Add Code Coverage Badge.
