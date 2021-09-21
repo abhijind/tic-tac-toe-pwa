@@ -1,15 +1,13 @@
-import { Component, OnInit } from '@angular/core';
+import {Component} from '@angular/core';
 
 @Component({
-  selector: 'app-computer',
-  templateUrl: './computer.component.html',
-  styleUrls: ['./computer.component.css']
+    selector: 'app-computer',
+    templateUrl: './computer.component.html',
+    styleUrls: ['./computer.component.css']
 })
-export class ComputerComponent implements OnInit {
+export class ComputerComponent {
 
-  constructor() { }
-
-  ngOnInit(): void {
-  }
+    constructor() {
+    }
 
 }
