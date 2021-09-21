@@ -1,0 +1,13 @@
+:host {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    margin: 1em;
+    padding: 1em;
+    min-width: 360px;
+    max-width: 100%;
+    border: 1px solid magenta;
+}
